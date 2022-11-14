@@ -24,7 +24,7 @@
   </h1>
 </div>
 
-I am a first year computer science student and I am passionate about IoT(Interner of things) and cyber security. I am currently learning Data structutes and algorithms along with Python. 
+I am a first year computer science student and I am passionate about IoT(Internet of things) and cyber security. I am currently learning Data structutes and algorithms along with Python. 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
