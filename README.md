@@ -24,7 +24,16 @@
   </h1>
 </div>
 
-I am a first year computer science student and I am passionate about IoT(Internet of things) and cyber security. I am currently learning Data structutes and algorithms along with Python. 
+
+
+<!-- GitHub Stats -->
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxbajaj&layout=compact&theme=radical">
+</p>
+
+
+I am a third year computer science student and I am passionate about IoT(Internet of things) and cyber security. I am currently learning Data structutes and algorithms along with Python. 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -52,9 +61,3 @@ I am a first year computer science student and I am passionate about IoT(Interne
 </div>
 
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
--->
