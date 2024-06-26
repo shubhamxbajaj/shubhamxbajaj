@@ -29,7 +29,7 @@
 <!-- GitHub Stats -->
 ## GitHub Stats
 <p align="left">
-  <img src="github-readme-stats-three-azure-53.vercel.app/api/top-langs/?username=shubhamxbajaj&layout=compact&theme=radical">
+  <img src="https://github-readme-stats-three-azure-53.vercel.app/api/top-langs/?username=shubhamxbajaj&layout=compact&theme=radical">
 </p>
 
 
